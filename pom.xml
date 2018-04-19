@@ -78,6 +78,7 @@
     </dependencyManagement>
 
     <modules>
+        <module>windows-x86_64</module>
         <module>linux-x86_64</module>
         <module>osx-x86_64</module>
     </modules>
